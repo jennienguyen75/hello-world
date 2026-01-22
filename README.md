@@ -1,4 +1,3 @@
-#hello-world
 <html>
   <head>
     <title>Hello, World!</title>
